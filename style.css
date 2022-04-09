@@ -1,0 +1,22 @@
+body{
+    background-color: #279E86;
+}
+
+form{
+    background-color: #FFF;
+    padding:20px 20px;
+    border-radius: 10px;
+}
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin-left: 20px;
+    
+}
+li{
+    background-color: #FFF;
+    max-width: 300px;
+    min-height: 250px;
+}
